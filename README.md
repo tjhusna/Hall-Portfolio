@@ -11,4 +11,5 @@ I hope to gain a better understanding of data interpretation and improve my alay
 
 # Portfolio
 Vizualization Critique #1: Economist Article Data Visualization
+
 <iframe title="Likes per Facebook Post" aria-label="Bar Chart" id="datawrapper-chart-Ej8eo" src="//datawrapper.dwcdn.net/Ej8eo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
